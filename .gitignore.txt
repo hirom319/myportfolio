@@ -1,2 +1,2 @@
-myportfolio/.DS_Store
+Documents/GitHub/myportfolio/.DS_Store
 
